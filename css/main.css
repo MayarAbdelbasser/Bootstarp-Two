@@ -1,0 +1,33 @@
+.d-flex input {
+    border: 1px solid grey;
+    outline: 0;
+}
+
+a {
+    scroll-behavior: smooth;
+}
+
+nav path {
+    fill: #5e6164
+}
+
+nav .navbar-toggler {
+    border: 1px solid #5e6164 !important
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+}
+
+.carousel-caption {
+    bottom: 65px !important
+}
+
+.card svg {
+    width: 140px;
+    aspect-ratio: 1/1;
+}
+
+.text-body .head {
+    font-size: 3rem;
+}
